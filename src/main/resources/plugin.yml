@@ -1,0 +1,6 @@
+name: Cosmetics
+version: ${project.version}
+main: com.linchen.cosmetics.Cosmetics
+api-version: 1.16
+authors: [ Linchen ]
+description: A cosmetics plugin
